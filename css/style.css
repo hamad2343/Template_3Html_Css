@@ -587,24 +587,24 @@ header .mega_links ul a:hover{
     border-radius: 50%;
     right: 10px;
     top: -20px;
-    background-image: url(../../../images/avatar-01.png);
+    background-image: url(../images/avatar-01.png);
     background-size: cover;
     box-shadow: 10px 10px 15px #bbb;
 }
 .testimonials .container .boxes-stars div:nth-child(2)::before{
-    background-image: url(../../../images/avatar-02.png);
+    background-image: url(../images/avatar-02.png);
 }
 .testimonials .container .boxes-stars div:nth-child(3)::before{
-    background-image: url(../../../images/avatar-03.png);
+    background-image: url(../images/avatar-03.png);
 }
 .testimonials .container .boxes-stars div:nth-child(4)::before{
-    background-image: url(../../../images/avatar-04.png);
+    background-image: url(../images/avatar-04.png);
 }
 .testimonials .container .boxes-stars div:nth-child(5)::before{
-    background-image: url(../../../images/avatar-05.png);
+    background-image: url(../images/avatar-05.png);
 }
 .testimonials .container .boxes-stars div:nth-child(6)::before{
-    background-image: url(../../../images/avatar-06.png);
+    background-image: url(../images/avatar-06.png);
 }
 .testimonials .container .boxes-stars h4{
     padding: 5px;
@@ -648,7 +648,7 @@ header .mega_links ul a:hover{
     left: -45px;
     top: 8%;
     border-radius: 10px;
-    background-image: url(../../../images/team-01.jpg);
+    background-image: url(../images/team-01.jpg);
     background-size: cover;
     transition: var(--main-transition);
     background-color: #777;
@@ -656,25 +656,25 @@ header .mega_links ul a:hover{
     
 }
 .team .boxes > div:nth-of-type(2)::before{
-    background-image: url(../../../images/team-02.jpg);
+    background-image: url(../images/team-02.jpg);
 }
 .team .boxes > div:nth-of-type(3)::before{
-    background-image: url(../../../images/team-03.jpg);
+    background-image: url(../images/team-03.jpg);
 }
 .team .boxes > div:nth-of-type(4)::before{
-    background-image: url(../../../images/team-04.jpg);
+    background-image: url(../images/team-04.jpg);
 }
 .team .boxes > div:nth-of-type(5)::before{
-    background-image: url(../../../images/team-05.png);
+    background-image: url(../images/team-05.png);
 }
 .team .boxes > div:nth-of-type(6)::before{
-    background-image: url(../../../images/team-06.png);
+    background-image: url(../images/team-06.png);
 }
 .team .boxes > div:nth-of-type(7)::before{
-    background-image: url(../../../images/team-07.jpg);
+    background-image: url(../images/team-07.jpg);
 }
 .team .boxes > div:nth-of-type(8)::before{
-    background-image: url(../../../images/team-08.jpg);
+    background-image: url(../images/team-08.jpg);
 }
 .team .boxes .box::after{
     content: "";
@@ -937,7 +937,7 @@ header .mega_links ul a:hover{
 .event .content::before{
     content: "";
     position: absolute;
-    background-image: url(../../../images/dots.png);
+    background-image: url(../images/dots.png);
     background-size: cover;
     height: 200px;
     width: 200px;
@@ -951,7 +951,7 @@ header .mega_links ul a:hover{
 .event .content::after{
     content: "";
     position: absolute;
-    background-image: url(../../../images/dots.png);
+    background-image: url(../images/dots.png);
     background-size: cover;
     height: 200px;
     width: 200px;
@@ -1292,7 +1292,7 @@ header .mega_links ul a:hover{
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url(../../../images/stats.jpg);
+    background-image: url(../images/stats.jpg);
     background-size: cover;
     opacity: 0.1;
     z-index: -2;
