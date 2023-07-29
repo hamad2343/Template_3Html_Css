@@ -1253,7 +1253,7 @@ header .mega_links ul a:hover{
     border-bottom: 2px solid #eee;
 }
 .top .image-holder{
-    background-color: #ddd;
+    background-color: #eee;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -1271,10 +1271,7 @@ header .mega_links ul a:hover{
         justify-content: center;
     }
     .top .content >div{
-        width: 50%;
-        height: 50%;
-        flex: 1;
-        flex-flow: column;
+            width: 310px;
     }
 }
 .top .content img{
