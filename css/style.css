@@ -1215,6 +1215,9 @@ header .mega_links ul a:hover{
     border-style: solid;
 
 }
+.top{
+    padding:25px 0;
+}
 .top .content{
     display: flex;
 }
